@@ -1,0 +1,2 @@
+# EEET-discordbot
+in development
